@@ -14,6 +14,7 @@ lib/rdoc/rubygems_hook.rb
 lib/rdoc/servlet.rb
 
 Tests
+
 test/test_rdoc_generator_darkfish.rb
 test/test_rdoc_generator_json_index.rb
 test/test_rdoc_options.rb
